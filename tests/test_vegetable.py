@@ -33,6 +33,8 @@ class TestVeg(BaseClass):
         country.selectcheckbox()
         country.proceedtobuy()
         print("Code changes after cloning")
+        print("I am in develop branch")
+        print("I have made code changes in develop branch")
 
 
 
