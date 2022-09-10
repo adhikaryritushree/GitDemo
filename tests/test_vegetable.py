@@ -32,6 +32,7 @@ class TestVeg(BaseClass):
         country.selectcounytry()
         country.selectcheckbox()
         country.proceedtobuy()
+        print("Code changes after cloning")
 
 
 
