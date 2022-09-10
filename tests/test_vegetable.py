@@ -33,6 +33,7 @@ class TestVeg(BaseClass):
         country.selectcheckbox()
         country.proceedtobuy()
         print("Code changes after cloning")
+        print("Code changed 3rd commit")
 
 
 
