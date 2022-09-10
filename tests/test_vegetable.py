@@ -33,7 +33,12 @@ class TestVeg(BaseClass):
         country.selectcheckbox()
         country.proceedtobuy()
         print("Code changes after cloning")
-        print("Code changed 3rd commit")
+
+
+        print("I am in develop branch")
+        print("I have made code changes in develop branch")
+        print("Changes made from GitRitushree")
+
 
 
 
